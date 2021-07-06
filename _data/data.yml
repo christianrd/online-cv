@@ -53,28 +53,33 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Software Engineer
+      university: Universidad Abierta Para Adulto (UAPA)
+      time: 2020 - 2023
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        El profesional graduado de Ingeniería de Software en la
+        UAPA podrá desempeñarse en las siguientes funciones:
+          - Director general de empresas informáticas 
+          - Director de instituciones de control de la calidad del software
+          - Director de proyectos de tecnologías informáticas
+          - Director ejecutivo de tecnología de la información y las comunicaciones
+          - Desarrollador e implantador de sistemas informáticos (hardware y software)
+          - Administrador o programador de aplicaciones
+          - Diseñador de bases de datos
+          - Administrar bases de datos
+          - Sitios web y redes
+          - Gestor y planificador de proyectos
+          - Desarrollador de todo el ciclo de vida del software
+    - degree: Software development technologist
+      university: Las Americas Institute of Technology (ITLA)
+      time: 2014 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        The Software Development Technologist will know all
+         the stages involved in the software development process,
+         focusing on the practice of more technical tasks.
+         You will be able to apply the knowledge, techniques,
+         Modern skills and tools of discipline for
+         engineering technology activities strictly speaking.
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -179,7 +184,7 @@ skills:
         level: 95%
 
       - name: PHP
-        level: 80%
+        level: 70%
 
       - name: SQL, SQLite & Mysql
         level: 87%
