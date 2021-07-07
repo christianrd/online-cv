@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Cristian D. Rodriguez V.
-    tagline: BackEnd Developer
+    tagline: .Net Developer
     avatar: Cristian.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -46,30 +46,31 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a software developer, Open Source lover.
+      My main objective is to be part of a team of developers 
+      which love to develop awesome software solution, it's 
+      development and design, so I can keep evolving as a 
+      profesional, contributing all I've learned; forming 
+      part of a project in which my teammates enjoy having me 
+      as a member of the team.
 education:
     - degree: Software Engineer
       university: Universidad Abierta Para Adulto (UAPA)
       time: 2020 - 2023
       details: |
-        El profesional graduado de Ingeniería de Software en la
-        UAPA podrá desempeñarse en las siguientes funciones:
-          - Director general de empresas informáticas 
-          - Director de instituciones de control de la calidad del software
-          - Director de proyectos de tecnologías informáticas
-          - Director ejecutivo de tecnología de la información y las comunicaciones
-          - Desarrollador e implantador de sistemas informáticos (hardware y software)
-          - Administrador o programador de aplicaciones
-          - Diseñador de bases de datos
-          - Administrar bases de datos
-          - Sitios web y redes
-          - Gestor y planificador de proyectos
-          - Desarrollador de todo el ciclo de vida del software
+        The graduate professional in Software Engineering at the
+         UAPA may perform the following functions:
+           - General Manager of IT companies
+           - Director of software quality control institutions
+           - Director of IT projects
+           - Executive Director of Information and Communications Technology
+           - Developer and implanter of computer systems (hardware and software)
+           - Administrator or application programmer
+           - Database designer
+           - Manage databases
+           - Websites and networks
+           - Project manager and planner
+           - Developer of the entire software life cycle
     - degree: Software development technologist
       university: Las Americas Institute of Technology (ITLA)
       time: 2014 - 2016
@@ -81,35 +82,29 @@ education:
          Modern skills and tools of discipline for
          engineering technology activities strictly speaking.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Data analyst
+      time: 2018 - Present
+      company: Seguro Nacional de Salud (SeNaSa)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Estudiar y analizar los procesos y criterios que intervienen 
+        en los riesgos de seguros de salud, con la finalidad de identificar 
+        factores de riesgos que puedan afectar la sostenibilidad financiera 
+        de los planes de seguros de salud, alertar y plantear 
+        alternativos para el control y mitigación de estos.
+    - role: Web Developer Consultant
+      time: Jul 2017 - Nov 2017
+      company: DTE Online
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        As a web development consultant, I was collaborating in the development
+        of a web application with a project management approach
+        for one of his clients as well in other projects.
+          - PHP
+          - Mysql
+          - CodeIgniter
+          - JQuery
+    - role: Web Developer
+      time: 2016 - 2018
+      company: GPD Share, Grupo Peña Defilló
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -125,25 +120,13 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
+      - title: Empleado
+        link: "emplea.do"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: TanitaTracker
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
@@ -156,16 +139,6 @@ publications:
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
