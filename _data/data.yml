@@ -82,6 +82,15 @@ education:
          Modern skills and tools of discipline for
          engineering technology activities strictly speaking.
 experiences:
+    - role: BackEnd Developer Consultant
+      time: 2020 - 2021
+      company: Pamcorps SRL (CPS Las Terrenas)
+      details: |
+        Estudiar y analizar los procesos y criterios que intervienen 
+        en los riesgos de seguros de salud, con la finalidad de identificar 
+        factores de riesgos que puedan afectar la sostenibilidad financiera 
+        de los planes de seguros de salud, alertar y plantear 
+        alternativos para el control y mitigación de estos.
     - role: Data analyst
       time: 2018 - Present
       company: Seguro Nacional de Salud (SeNaSa)
