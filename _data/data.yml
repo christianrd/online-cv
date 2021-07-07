@@ -86,11 +86,14 @@ experiences:
       time: 2020 - 2021
       company: Pamcorps SRL (CPS Las Terrenas)
       details: |
-        Estudiar y analizar los procesos y criterios que intervienen 
-        en los riesgos de seguros de salud, con la finalidad de identificar 
-        factores de riesgos que puedan afectar la sostenibilidad financiera 
-        de los planes de seguros de salud, alertar y plantear 
-        alternativos para el control y mitigación de estos.
+        I had the opportunity to design and implement a solution to the lack 
+        of automated customer loyalty control. We design a friendly interface
+        covering all the requirements according to the requirements survey.
+        Tools used:
+          - .NetCore Framework
+          - Relational database
+          - CD / CI AzurDevOps
+          - GitHub / Git workflow
     - role: Data analyst
       time: 2018 - Present
       company: Seguro Nacional de Salud (SeNaSa)
