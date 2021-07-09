@@ -132,13 +132,13 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Empleado
+      - title: Emplea.do
         link: "emplea.do"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Open source tech jobs portal. Made with .Net Core."
 
       - title: TanitaTracker
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Tracker job body for trainer."
 
 publications:
     title: Publications
