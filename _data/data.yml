@@ -98,11 +98,10 @@ experiences:
       time: 2018 - Present
       company: Seguro Nacional de Salud (SeNaSa)
       details: |
-        Estudiar y analizar los procesos y criterios que intervienen 
-        en los riesgos de seguros de salud, con la finalidad de identificar 
-        factores de riesgos que puedan afectar la sostenibilidad financiera 
-        de los planes de seguros de salud, alertar y plantear 
-        alternativos para el control y mitigación de estos.
+        Study and analyze the processes and criteria that intervene in health 
+        insurance risks, in order to identify risk factors that can affect the 
+        financial sustainability of health insurance plans, alert and propose 
+        alternatives for the control and mitigation of these .
     - role: Web Developer Consultant
       time: Jul 2017 - Nov 2017
       company: DTE Online
@@ -118,13 +117,12 @@ experiences:
       time: 2016 - 2018
       company: GPD Share, Grupo Peña Defilló
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Estuve desempeñando la funcion de desarrollador web para una empresa dedica
+        a brindar servicios a un grupo de agencia publicitaria, Grupo Peña Defilló.
+          - Desarrollo y mantenimiento de aplicaciones Web.
+          - Documentación de aplicaciones.
+          - Asistencia a los usuarios de las aplicaciones.
+          - Pruebas unitarias a las aplicaciones.
 projects:
     title: Projects
     intro: >
@@ -149,7 +147,7 @@ publications:
     papers:
       - title: The Art of Computer Programming
         link: "#"
-        authors: Donald E. Knuth
+        authors: Cristian D. Rodriguez V.
         conference: Addison-Wesley, 1968
 
 skills:
