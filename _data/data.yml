@@ -160,8 +160,8 @@ skills:
       - name: Javascript
         level: 70%
 
-      - name: Angular
-        level: 30%
+      #- name: Angular
+      #  level: 30%
 
       - name: HTML5 & CSS
         level: 95%
