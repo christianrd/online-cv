@@ -129,7 +129,7 @@ projects:
       
     assignments:
       - title: Emplea.do
-        link: "emplea.do"
+        link: "https://emplea.do"
         tagline: "Open source tech jobs portal. Made with .Net Core."
 
 publications:
