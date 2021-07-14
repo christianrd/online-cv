@@ -126,29 +126,21 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
       - title: Emplea.do
         link: "emplea.do"
         tagline: "Open source tech jobs portal. Made with .Net Core."
 
-      - title: TanitaTracker
-        link: "#"
-        tagline: "Tracker job body for trainer."
-
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
+      - title: Instalación de OBS en Ubuntu | Elementary OS
+        link: "https://medium.com/streamelopers/instalanci%C3%B3n-obs-en-ubuntu-elementary-os-517a4cc9dfb8"
         authors: Cristian D. Rodriguez V.
-        conference: Addison-Wesley, 1968
+        conference: Feb 10, 2020
 
 skills:
     title: Skills &amp; Proficiency
