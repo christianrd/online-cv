@@ -56,7 +56,7 @@ career-profile:
 education:
     - degree: Software Engineer
       university: Universidad Abierta Para Adulto (UAPA)
-      time: 2020 - 2023
+      time: Oct 2020 - Dec 2023
       details: |
         The graduate professional in Software Engineering at the
          UAPA may perform the following functions:
@@ -73,7 +73,7 @@ education:
            - Developer of the entire software life cycle
     - degree: Software development technologist
       university: Las Americas Institute of Technology (ITLA)
-      time: 2014 - 2016
+      time: jan 2014 - May 2016
       details: |
         The Software Development Technologist will know all
          the stages involved in the software development process,
@@ -83,7 +83,7 @@ education:
          engineering technology activities strictly speaking.
 experiences:
     - role: BackEnd Developer Consultant
-      time: 2020 - 2021
+      time: Aug 2020 - Mar 2021
       company: Pamcorps SRL (CPS Las Terrenas)
       details: |
         I had the opportunity to design and implement a solution to the lack 
@@ -94,14 +94,20 @@ experiences:
           - Relational database
           - CD / CI AzurDevOps
           - GitHub / Git workflow
+          - Azure
+          - Power BI
     - role: Data analyst
-      time: 2018 - Present
+      time: Jul 2018 - Present
       company: Seguro Nacional de Salud (SeNaSa)
       details: |
         Study and analyze the processes and criteria that intervene in health 
         insurance risks, in order to identify risk factors that can affect the 
         financial sustainability of health insurance plans, alert and propose 
-        alternatives for the control and mitigation of these .
+        alternatives for the control and mitigation of these.
+        Tools used:
+          - SQL Management
+          - Power BI
+          - SPSS
     - role: Web Developer Consultant
       time: Jul 2017 - Nov 2017
       company: DTE Online
@@ -114,7 +120,7 @@ experiences:
           - CodeIgniter
           - JQuery
     - role: Web Developer
-      time: 2016 - 2018
+      time: Aug 2016 - Jul 2018
       company: GPD Share, Grupo Peña Defilló
       details: |
         I was working as a web developer for a company dedicated to providing 
