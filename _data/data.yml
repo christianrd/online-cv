@@ -138,7 +138,7 @@ projects:
     intro: >
       
     assignments:
-      - title: Emplea.do , 
+      - title: Emplea.do (ver. 2.1) 
         link: "https://emplea.do"
         tagline: "Open source tech jobs portal deployed in feb 16, 2016. Made with C# ASP.NET MVC5 later migrated to .NetCore for version 2."
 
