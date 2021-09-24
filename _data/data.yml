@@ -129,7 +129,7 @@ experiences:
         I was working as a web developer for a company dedicated to providing 
         services to an advertising agency group, Grupo Peña Defilló.
         My responsability and tools used:
-          - Development and maintenance of Web applications. (PHP, java, C#/.Net, JavaScript)
+          - Development and maintenance web and desktop applications. (PHP, JavaSE, C#/.Net MVC5, JavaScript)
           - Application documentation.
           - Assistance to the users of the applications.
           - Unit tests to applications. 
@@ -138,9 +138,9 @@ projects:
     intro: >
       
     assignments:
-      - title: Emplea.do
+      - title: Emplea.do , 
         link: "https://emplea.do"
-        tagline: "Open source tech jobs portal. Made with .NetCore."
+        tagline: "Open source tech jobs portal deployed in feb 16, 2016. Made with C# ASP.NET MVC5 later migrated to .NetCore for version 2."
 
 publications:
     title: Publications
