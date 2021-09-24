@@ -55,7 +55,7 @@ career-profile:
       as a member of the team.
 education:
     - degree: Software Engineer
-      university: Universidad Abierta Para Adulto (UAPA)
+      university: Universidad Abierta Para Adulto(UAPA)
       time: Oct 2020 - Dec 2023
       details: |
         The graduate professional in Software Engineering at the
@@ -72,8 +72,8 @@ education:
            - Project manager and planner
            - Developer of the entire software life cycle
     - degree: Software development technologist
-      university: Las Americas Institute of Technology (ITLA)
-      time: jan 2014 - May 2016
+      university: Las Americas Institute of Technology(ITLA)
+      time: jan 2014 - Apr 2016
       details: |
         The Software Development Technologist will know all
          the stages involved in the software development process,
@@ -84,7 +84,7 @@ education:
 experiences:
     - role: BackEnd Developer Consultant
       time: Aug 2020 - Present
-      company: Pamcorps SRL (CPS Las Terrenas)
+      company: Pamcorps SRL(CPS Las Terrenas)
       details: |
         I had the opportunity to design and implement a solution to the lack 
         of automated customer loyalty control. We design a friendly interface
@@ -96,9 +96,10 @@ experiences:
           - GitHub / Git workflow
           - Azure
           - Power BI
+          - Software Documentation
     - role: Data analyst
       time: Jul 2018 - Present
-      company: Seguro Nacional de Salud (SeNaSa)
+      company: Seguro Nacional de Salud(SeNaSa)
       details: |
         Study and analyze the processes and criteria that intervene in health 
         insurance risks, in order to identify risk factors that can affect the 
@@ -115,6 +116,7 @@ experiences:
         As a web development consultant, I was collaborating in the development
         of a web application with a project management approach
         for one of his clients as well in other projects.
+        Tools used:
           - PHP
           - Mysql
           - CodeIgniter Framework
@@ -125,6 +127,7 @@ experiences:
       details: |
         I was working as a web developer for a company dedicated to providing 
         services to an advertising agency group, Grupo Peña Defilló.
+        What was my responsability and tools used:
           - Development and maintenance of Web applications. (PHP, java, C#, JavaScript)
           - Application documentation.
           - Assistance to the users of the applications.
@@ -136,7 +139,7 @@ projects:
     assignments:
       - title: Emplea.do
         link: "https://emplea.do"
-        tagline: "Open source tech jobs portal. Made with .Net Core."
+        tagline: "Open source tech jobs portal. Made with .NetCore."
 
 publications:
     title: Publications
