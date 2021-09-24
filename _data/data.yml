@@ -91,7 +91,7 @@ experiences:
         covering all the requirements according to the requirements survey.
         Tools used:
           - .NetCore Framework
-          - Relational database
+          - Mysql
           - CD / CI AzurDevOps
           - GitHub / Git workflow
           - Azure
@@ -105,7 +105,7 @@ experiences:
         financial sustainability of health insurance plans, alert and propose 
         alternatives for the control and mitigation of these.
         Tools used:
-          - SQL Management
+          - SQL Server
           - Power BI
           - SPSS
     - role: Web Developer Consultant
@@ -117,7 +117,7 @@ experiences:
         for one of his clients as well in other projects.
           - PHP
           - Mysql
-          - CodeIgniter
+          - CodeIgniter Framework
           - JQuery
     - role: Web Developer
       time: Aug 2016 - Jul 2018
@@ -125,7 +125,7 @@ experiences:
       details: |
         I was working as a web developer for a company dedicated to providing 
         services to an advertising agency group, Grupo Peña Defilló.
-          - Development and maintenance of Web applications.
+          - Development and maintenance of Web applications. (PHP, java, C#, JavaScript)
           - Application documentation.
           - Assistance to the users of the applications.
           - Unit tests to applications. 
