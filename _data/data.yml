@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Cristian D. Rodriguez V.
-    tagline: C#/.Net Developer
+    tagline: Full Stack .Net Developer
     avatar: Cristian.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -46,17 +46,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a software developer, Open Source lover.
+      I am a software developer and open-source lover.
       My main objective is to be part of a team of developers 
-      which love to develop awesome software solution, it's 
+      which loves to develop awesome software solutions, it's 
       development and design, so I can keep evolving as a 
-      profesional, contributing all I've learned; forming 
+      professional, contributing all I've learned; forming 
       part of a project in which my teammates enjoy having me 
       as a member of the team.
 education:
     - degree: Software Engineer
       university: Universidad Abierta Para Adulto(UAPA)
-      time: Oct 2020 - Dec 2023
+      time: Oct 2020
       details: |
         The graduate professional in Software Engineering at the
          UAPA may perform the following functions:
@@ -73,7 +73,7 @@ education:
            - Developer of the entire software life cycle
     - degree: Software development technologist
       university: Las Americas Institute of Technology(ITLA)
-      time: jan 2014 - Apr 2016
+      time: Jan 2014 - Apr 2016
       details: |
         The Software Development Technologist will know all
          the stages involved in the software development process,
@@ -82,15 +82,43 @@ education:
          Modern skills and tools of discipline for
          engineering technology activities strictly speaking.
 experiences:
+    - role: Full Stack Developer (Consultant)
+      time: Jan 2024 - Jul 2024
+      company: Unit, Universal Group Subsidiary.
+      details: |
+        I had the opportunity to play various roles like backend dev, DevOps, and frontend dev.
+        Tools used:
+          -.Net6 and .Net8
+          - Oracle and SQL Server
+          - CD / CI GitHub Action
+          - Azure
+          - Unit Test
+          - C# 11
+          - Angular 11
+          - Docker
+    - role: Full Stack Developer (Consultant)
+      time: Jan 2023 - Jan 2024
+      company: Universal de seguros.
+      details: |
+        I had the opportunity to help a team develop multiple solutions such as ERP using Azure technologies like Azure function, Logic App, and much more.
+        Tools used:
+          -.Net6 and .Net8
+          - Oracle, SQL Server
+          - CD / CI AzurDevOps
+          - Azure
+          - Sonar Cloud
+          - Unit Test
+          - C# 11
+          - Angular 11
     - role: BackEnd Developer Consultant
       time: Aug 2020 - Sept 2021
       company: Pamcorps SRL(CPS Las Terrenas)
       details: |
         I had the opportunity to design and implement a solution to the lack 
-        of automated customer loyalty control. We design a friendly interface
-        covering all the requirements according to the requirements survey.
+        of automated customer loyalty control. We designed a friendly interface
+        that covered all the requirements according to the requirements survey.
         Tools used:
-          - .NetCore Framework
+          -.NetCore Framework
           - Mysql
           - CD / CI AzurDevOps
           - GitHub / Git workflow
