@@ -54,6 +54,13 @@ career-profile:
       part of a project in which my teammates enjoy having me 
       as a member of the team.
 education:
+    - degree: Certifications
+      university: Azure 204 and Azure 900
+      time: August 2023
+      details: |
+        The graduate professional in Software Engineering at the
+         UAPA may perform the following functions:
+           - General Manager of IT companies
     - degree: Software Engineer
       university: Universidad Abierta Para Adulto(UAPA)
       time: Oct 2020
@@ -188,18 +195,18 @@ skills:
         level: 90%
 
       - name: Javascript
-        level: 70%
+        level: 80%
 
-      #- name: Angular
-      #  level: 30%
+      - name: Angular
+        level: 40%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: PHP
-        level: 70%
+      - name: Docker
+        level: 60%
 
-      - name: SQL, SQLite & Mysql
+      - name: SQL Server, Oracle, CosmosDB, SQLite & Mysql
         level: 87%
 
 footer: >
